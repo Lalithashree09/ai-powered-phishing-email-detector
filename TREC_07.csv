@@ -1,0 +1,4 @@
+sender,receiver,date,subject,body,label,urls
+alert@bank.com,user@domain.com,2025-01-01,Urgent: Verify Account,Your account will be locked. Click http://fakebank.com/login to verify.,phishing,"[""http://fakebank.com/login""]"
+support@paypal.com,user@domain.com,2025-01-01,Payment Failed,We detected unusual activity. Login at http://paypal-secure.co to fix.,phishing,"[""http://paypal-secure.co""]"
+friend@gmail.com,user@domain.com,2025-01-01,"Hi, how are you?",Just checking in. Hope you are doing well!,ham,[]
